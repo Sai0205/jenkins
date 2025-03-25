@@ -20,7 +20,6 @@ pipeline{
                     echo "Toggle: ${TOGGLE}"
                     echo "Choice: ${CHOICE}"
                     echo "Password: ${PASSWORD}"
-                    printenv
                 '''
 
             }
